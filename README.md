@@ -1,4 +1,4 @@
-# DOS Exploit against DG8245W2-10 Gateway from Huawei Web Admin Login Page
+# DOS attack against DG8245W2-10 Gateway from Huawei Web Admin Login Page
 
 ## Platform
 
