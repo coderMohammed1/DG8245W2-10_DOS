@@ -14,8 +14,9 @@ If someone tries 3 incorrect passwords, they will be blocked for 60 seconds base
 
 ## impact:
 
-no administrative actions can be taken!
-
+ - no administrative actions can be taken!
+ - potentially dosing the whole network!
+   
 ## disclamer:
 
 For educational purposes only.
